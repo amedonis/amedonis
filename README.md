@@ -2,7 +2,7 @@
 <h3 align="center">Aspiring Android Developer</h3>
 
 - 🔭 I am currently working on a startup project with my friends. Getting an app to a minimum viable product level.
-- Another project I'm working on is [Jim](https://github.com/amedonis/Jim/). Currently implementing barcode scanner, food database API and persisting data outside the app's internal storage(AWS S3/Firebase)
+- Another project I'm working on is [Jim](https://github.com/amedonis/Jim/). Currently reworking the app, implementing barcode scanner, food database API and persisting data outside the app's internal storage(AWS S3/Firebase), learning more about unit tests, and releasing it on Google Play. 
 
 - 🌱 I’m currently learning **AWS S3, Firebase, and general cloud storage solutions**
 
